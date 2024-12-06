@@ -1,9 +1,9 @@
 .dropdown-item:hover {
-  background-color: #343a40;
+  background-color: #343a40 !important;
 }
 
 .dropdown-menu {
-  font-size: 14px;
+  font-size: 14px !important;
 }
 
 .filter {
