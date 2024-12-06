@@ -1,3 +1,8 @@
+html,
+body {
+  background-color: black !important;
+}
+
 .dropdown-item:hover {
   background-color: #343a40 !important;
 }
@@ -20,5 +25,27 @@
   align-items: center;
   justify-content: center;
   width: 40px;
+  height: 40px;
+}
+
+footer {
+  margin-right: 25%;
+  margin-left: 25%;
+  margin-top: 100px;
+}
+
+.socials {
+  font-size: 25px;
+}
+
+.footer-links {
+  margin-top: 12px;
+}
+
+.button-footer {
+  background-color: black;
+  color: white;
+  border: 1px white solid;
+  width: 150px;
   height: 40px;
 }
